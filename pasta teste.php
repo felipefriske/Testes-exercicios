@@ -4,6 +4,10 @@
 
 echo "consegui sim, sou foda, vou tentar atualizar";
 
+      
+      echo"testando a interferencia, será q deu certo?";
+
 echo "ahhhh consegui, agora vou criar uma falha de versão";
+
            
 ?>
